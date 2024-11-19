@@ -1,7 +1,7 @@
 ### ¿Para que es? : **Bot Raid Galaxy**  
 
 #### 📄 **Descripción**  
-Este repositorio contiene un bot de Discord diseñado para raideos en discord . **Nota**: Este código es exclusivamente educativo y su uso indebido puede violar las políticas de Discord.  
+Esta herramienta contiene código para crear un  bot de Discord diseñado para raideos en este. **Nota**: Este código es exclusivamente educativo y su uso indebido puede violar las políticas de Discord.  
 
 #### ✨ **Características**  
 - **Automatización avanzada**: Cambia nombres de servidores, elimina y crea canales, roles, y más.  
