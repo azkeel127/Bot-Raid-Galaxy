@@ -1,4 +1,4 @@
-### ¿Para que es? : **Discord Raid Bot**  
+### ¿Para que es? : ** Bot Raid Galaxy**  
 
 #### 📄 **Descripción**  
 Este repositorio contiene un bot de Discord diseñado para raideos en discord . **Nota**: Este código es exclusivamente educativo y su uso indebido puede violar las políticas de Discord y leyes locales.  
