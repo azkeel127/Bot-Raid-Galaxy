@@ -1,7 +1,7 @@
 ### ¿Para que es? : **Discord Raid Bot**  
 
 #### 📄 **Descripción**  
-Este repositorio contiene un bot de Discord diseñado para raids y pruebas de vulnerabilidades en servidores. **Nota**: Este código es exclusivamente educativo y su uso indebido puede violar las políticas de Discord y leyes locales.  
+Este repositorio contiene un bot de Discord diseñado para raideos en discord . **Nota**: Este código es exclusivamente educativo y su uso indebido puede violar las políticas de Discord y leyes locales.  
 
 #### ✨ **Características**  
 - **Automatización avanzada**: Cambia nombres de servidores, elimina y crea canales, roles, y más.  
@@ -19,7 +19,7 @@ Este repositorio contiene un bot de Discord diseñado para raids y pruebas de vu
 
 #### 📂 **Estructura del Código**  
 El bot utiliza:  
-- **Librerías**: `discord.py`, `colorama`, `asyncio`  
+- **Librerías**: `py-cord`, `colorama`, `asyncio`  
 - **Conceptos clave**:  
   - Gestión de eventos (`on_ready`, `on_message`)  
   - Creación y eliminación masiva de roles y canales  
