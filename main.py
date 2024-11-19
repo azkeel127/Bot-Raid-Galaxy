@@ -7,7 +7,7 @@ import random
 import asyncio
  
 
-token = "MTExNTc4MjQ4NDI2MTYxMzY3MQ.GjktfF.42-xzjcORq5uPeREa_gQ7w21lm069sjlHI-lgU"
+token = "Bot_Token"
 
 
 
